@@ -16,6 +16,9 @@ gem 'bootstrap-sass'
 # forms
 gem 'simple_form'
 
+# authentication
+gem 'devise'
+
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 

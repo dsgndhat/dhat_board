@@ -1,8 +1,13 @@
 /*
 *
+ *= require 'masonry/transitions'
  *= require_tree .
  *= require_self
  */
-
+// vendor
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
+
+// pins
+@import 'base';
+@import 'pins';

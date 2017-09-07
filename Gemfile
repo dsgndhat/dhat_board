@@ -21,6 +21,7 @@ gem 'devise'
 
 # upload images
 gem 'paperclip'
+gem 'masonry-rails'
 
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'

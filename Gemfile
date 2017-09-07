@@ -19,6 +19,9 @@ gem 'simple_form'
 # authentication
 gem 'devise'
 
+# upload images
+gem 'paperclip'
+
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 

@@ -23,6 +23,9 @@ gem 'devise'
 gem 'paperclip'
 gem 'masonry-rails'
 
+# voting
+gem 'acts_as_votable'
+
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
